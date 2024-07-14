@@ -1,4 +1,4 @@
-[image](https://github.com/user-attachments/assets/930cf067-9270-41de-8fe6-41f51a10c165)
+![Walmart Sales Analysis](https://github.com/user-attachments/assets/930cf067-9270-41de-8fe6-41f51a10c165)
 
 # Walmart-Sales-Data-Analysis--SQL-Project
 
